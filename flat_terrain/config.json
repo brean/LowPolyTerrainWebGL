@@ -1,0 +1,17 @@
+{
+  "color_spread": 0.45,
+  "terrain_colors": [
+    [201, 178, 99],
+		[135, 184, 82],
+    [80, 171, 93],
+    [120, 120, 120],
+		[200, 200, 210]
+  ],
+  "light_pos": [0.3, -1.0, 0.5],
+  "light_col": [1, 0.8, 0.8],
+  "light_bias": [0.3, 0.8],
+  "terrain_size": 100,
+  "amplitude": 10,
+  "roughness": 0.35,
+  "octaves": 3
+}
